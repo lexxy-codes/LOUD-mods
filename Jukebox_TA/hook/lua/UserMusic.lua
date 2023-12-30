@@ -1,4 +1,4 @@
-# Begin shared jukebox code (by Lexxy)
+# Begin shared jukebox code (by https://github.com/lexxy-codes/LOUD-mods)
 if not pcall(function() Jukebox_enabled = Jukebox_enabled end) then
     # Clear all in game music.
     BattleCues = {}
