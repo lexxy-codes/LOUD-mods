@@ -1,0 +1,9 @@
+name = "Jukebox - Phillip Crofts"
+uid = "8ecaa312-f18b-11e7-8cef-jf89jh2kksn5"
+version = 6
+description = "Adds custom music written by Phillip Crofts to the in-game jukebox."
+author = "Phillip Crofts, Exotic Retard, Lexxy"
+icon = "/mods/Jukebox_PhilCrofts/mod_icon.png"
+exclusive = false
+ui_only = true
+copyright = "2020 Phillip Crofts"
