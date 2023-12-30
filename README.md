@@ -13,4 +13,4 @@ Jukebox allows you to customize the background music in the game which you hear 
 - Jukebox_SC            - Supreme Commander OST
 - Jukebox_SC2           - Supreme Commander 2 OST
 - Jukebox_TA            - Total Annihilation OST
-- Jukebox_PhilCrofts    - Phillip Crofts self composed music for Forged Alliance
+- Jukebox_PhilCrofts    - Phillip Crofts self composed music for Forged Alliance (find him at https://soundcloud.com/phillip-crofts)
